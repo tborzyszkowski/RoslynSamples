@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "LearningCodeAnalysis": {
+      "commandName": "Project",
+      "commandLineArgs": "$(SolutionDir)..\\SampleCodeLibrary\\SampleCodeLibrary.sln"
+    }
+  }
+}
